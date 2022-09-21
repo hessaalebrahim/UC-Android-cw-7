@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "8083743186",
+    "firebase_url": "https://phonesshop-1649f-default-rtdb.firebaseio.com",
+    "project_id": "phonesshop-1649f",
+    "storage_bucket": "phonesshop-1649f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8083743186:android:677b563d3cc89ab90ae80b",
+        "android_client_info": {
+          "package_name": "com.example.phones"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8083743186-bevs97b8scluskgpg8f5ga667ir614gn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVnwm688CxuBUyfmGhhdqjsebIEYZSWcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8083743186-bevs97b8scluskgpg8f5ga667ir614gn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
